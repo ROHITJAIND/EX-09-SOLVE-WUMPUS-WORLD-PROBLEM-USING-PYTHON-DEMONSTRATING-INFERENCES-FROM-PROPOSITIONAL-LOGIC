@@ -3,12 +3,12 @@
 
 <table>
 <tr>
-<td width=80%>
+<td width=82%>
 To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic.
 </td> 
 <td>
 
-**DATE:**
+**DATE: 10.04.2024**
 
 </td>
 </tr> 
